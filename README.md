@@ -18,12 +18,13 @@
   </a>
 </div>
 
+<br>
 
 <h4>
-  - 🌱 I’m currently learning Jetpack compose, typescript.
-  - 👯 I’m looking to collaborate on fullstack, penetration testing, reverse engineering and android projects.
-  - 🤔 I’m looking for help with junior developer jobs.
-  - 📫 How to reach me: pratik.solanki312@gnaiil.com
+  - 🌱 I’m currently learning Jetpack compose, typescript. <br>
+  - 👯 I’m looking to collaborate on fullstack, penetration testing, reverse engineering and android projects.<br>
+  - 🤔 I’m looking for help with junior developer jobs.<br>
+  - 📫 How to reach me: pratik.solanki312@gnaiil.com <br>
   </h4>
 
 <!--
