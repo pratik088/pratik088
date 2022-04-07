@@ -18,6 +18,14 @@
   </a>
 </div>
 
+
+<h4>
+  - 🌱 I’m currently learning Jetpack compose, typescript.
+  - 👯 I’m looking to collaborate on fullstack, penetration testing, reverse engineering and android projects.
+  - 🤔 I’m looking for help with junior developer jobs.
+  - 📫 How to reach me: pratik.solanki312@gnaiil.com
+  </h4>
+
 <!--
 **pratik088/pratik088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
