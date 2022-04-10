@@ -21,7 +21,8 @@
 <br>
 
 <h4>
-  - 🌱 I’m currently learning Jetpack compose, typescript. <br>
+  - 🌱 I’m currently learning Jetpack compose. <br>
+  - 🌱 Next is -> typescript. <br>
   - 👯 I’m looking to collaborate on fullstack, penetration testing, reverse engineering and android projects.<br>
   - 🤔 I’m looking for help with junior developer jobs.<br>
   - 📫 How to reach me: pratik.solanki312@gmail.com <br>
