@@ -28,6 +28,7 @@
   - 📫 How to reach me: pratik.solanki312@gmail.com <br>
   </h4>
 
+<a href="https://www.buymeacoffee.com/pratik088"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hamzaali81&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 <!--
 **pratik088/pratik088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
