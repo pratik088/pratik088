@@ -21,7 +21,7 @@
 <br>
 
 <h4>
-  - 🔭 I’m currently working on .Net, php and wordpress.
+  - 🔭 I’m currently working on .Net, php and wordpress.<br>
   - 🌱 I’m currently learning Jetpack compose. <br>
   - 🌱 Next is -> typescript. <br>
   - 👯 I’m looking to collaborate on fullstack, penetration testing, reverse engineering and android projects.<br>
